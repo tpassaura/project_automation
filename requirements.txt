@@ -1,0 +1,4 @@
+selenium
+pyautogui
+sqlite3
+termcolor
